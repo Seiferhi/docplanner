@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.post-container{
+  text-align: left;
+  border-bottom: 2px solid gray;
+  margin-bottom: 40px;
+  width: 70%
+}
+.postform-cont{
+  text-align: centre;
+  border : 2px solid black;
+  margin-bottom: 50px;
+  padding: 20px
+  
+}
+  
